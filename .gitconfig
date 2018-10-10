@@ -1,0 +1,1 @@
+log = ! git log --oneline --color | emojify | less -r

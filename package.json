@@ -1,0 +1,20 @@
+{
+  "name": "mobile-web",
+  "version": "1.0.0",
+  "description": "brew install emojify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlrandy/mobile-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlrandy/mobile-web/issues"
+  },
+  "homepage": "https://github.com/dlrandy/mobile-web#readme"
+}
