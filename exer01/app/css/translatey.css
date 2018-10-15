@@ -1,0 +1,34 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background: #000000;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.wrap2 {
+  width: 100%;
+  height: 1000%;
+  transition: 0.3s linear;
+}
+.page {
+  width: 100%;
+  height: 10%;
+}
+.page {
+  background-color: #fdfdfd;
+  font-size: 100px;
+  line-height: 400px;
+  text-align: center;
+  font-weight: bold;
+}
